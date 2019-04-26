@@ -1,4 +1,4 @@
-# Building a VGG_model in keras 
+# Building a VGG model in keras 
 
 We can generalize the specification of a VGG-block as one or more convolutional layers 
 with the same number of filters and a filter size of 3×3, a stride of 1×1, same padding 
